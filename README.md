@@ -1,14 +1,18 @@
 # Vision-Based Meal Price Calculator (SnapMeal)
 
-A simple mobile application that lets you calculate your total meal price by simply taking a picture of the meals. This is for my final year project.
+A mobile application that lets you calculate the total meal price by simply taking a picture of the meals.
 
 ## Requirements
-1. Flutter
-2. Android SDK
+1. Flutter SDK
+2. Android Studio
 
-## Getting Started
-
-1. Go to terminal
-2. Type flutter clean
-3. Type flutter pub get
-4. Type flutter 
+## Steps to Run
+1. Install Flutter SDK
+2. Install and set up Android Studio
+3. Clone this git repo by typing 'git clone https://github.com/syamillll/SnapMeal' in terminal
+4. Open project in Android Studio
+5. Run Android emulator or connect a physical Android device
+6. Open terminal
+7. Type 'flutter clean'
+8. Type 'flutter pub get'
+9. Type 'flutter run' 
