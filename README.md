@@ -1,16 +1,14 @@
-# snapmeal
+# Vision-Based Meal Price Calculator (SnapMeal)
 
-A new Flutter project.
+A simple mobile application that lets you calculate your total meal price by simply taking a picture of the meals. This is for my final year project.
+
+## Requirements
+1. Flutter
+2. Android SDK
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Go to terminal
+2. Type flutter clean
+3. Type flutter pub get
+4. Type flutter 
