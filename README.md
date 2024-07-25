@@ -3,8 +3,8 @@
 A mobile application that lets you calculate the total meal price by simply taking a picture of the meals.
 
 ## Requirements
-1. Flutter SDK
-2. Android Studio
+1. Flutter SDK (* [Download here](https://docs.flutter.dev/get-started/install/windows/mobile))
+2. Android Studio [Download here](https://developer.android.com/studio)
 
 ## Steps to Run
 1. Install Flutter SDK
