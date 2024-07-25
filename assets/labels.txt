@@ -1,0 +1,8 @@
+0 Apple
+1 Bean
+2 Curry Puff
+3 Fried Egg
+4 Iced Tea
+5 Salad
+6 Spaghetti
+7 White Rice

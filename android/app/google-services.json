@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905892696815",
+    "project_id": "snapmeal-850d0",
+    "storage_bucket": "snapmeal-850d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905892696815:android:17f4ca2261eee24e83c11a",
+        "android_client_info": {
+          "package_name": "com.syamil.snapmeal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3UQ_K62S1USrOAAXAmLiuC4NGK8EU930"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
